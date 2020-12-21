@@ -6,7 +6,7 @@ TASK: ride
 import java.io.*;
 import java.util.*;
 
-class ride.java {
+public class ride {
   public static void main(String[] args) {
 		Scanner sc = new Scanner(new File("ride.in"));
 		PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ride.out")));
